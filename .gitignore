@@ -1,0 +1,6 @@
+# django files
+backend/project/__pycache__/
+backend/db.sqlite3
+
+# react files
+frontend/node_modules/
